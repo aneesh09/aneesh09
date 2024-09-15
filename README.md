@@ -1,4 +1,7 @@
-## Hi Folks  👋 Im Aneesh Sharma
+## Hi Folks  👋 Im Aneesh Sharma  
+
+[linkedin Profile](linkedin.com/in/aneesh-sharma-bb5644a8) 
+
 🚀Career Overview: -
 
 Welcome to my GitHub world! I am actively advancing my skills in the field of Data Analitics & Data Science with a background in Electrical Design Engineering, now specializing in data manipulation, statistical analysis, and machine learning. This repository showcases a collection of my data analysis and machine learning projects. Each project demonstrates my ability to work with different datasets, apply various tools, and provide insights through exploratory data analysis (EDA), visualization, and predictive modelling.
