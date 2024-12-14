@@ -12,7 +12,7 @@ Welcome to my GitHub world! I am actively advancing my skills in the field of Da
 
 2.Libraries and Frameworks: scikit-learn, NumPy, Pandas
 
-3.Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI, DAX
+3.Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI, DAX,Tableau
 
 4.Data Analysis: MS Excel, Macro and VBA, Pivot, VLookup, Dashboards
 
