@@ -31,41 +31,60 @@ Advance SQL ,MS Excel and Tableau knowledge in statitics and probability, differ
  
 [ANALYSIS OF AIRBNB DATA](https://github.com/aneesh09/Analysis-of-Airbnb.git) 
 
-Objective: Analyze Airbnb data to uncover insights about user experiences and satisfaction levels.
+• The primary objective is to analyze Airbnb data to reveal insights into user experiences and satisfaction levels with the numerous listed stays, 
+all accomplished using Power BI. 
+• Identify patterns in the data, helping to better understand factors that contribute to customer satisfaction. 
+• Technical skills: -MS Power BI, MS Power point. 
 
-Tools Used: MS Power BI, MS PowerPoint
-
+[BLINKIT DASHBOARD](https://github.com/aneesh09/Blinkit-Dashboard) 
+• Performed in-depth sales and inventory analysis of Blink it using Power BI, identifying Tier 3 and medium-sized outlets as key revenue drivers.  
+• Highlighted top-selling categories (Fruits, Snacks, Household) and recommended strategies to overcome sales stagnation.  
+• Provided actionable insights on product bundling, outlet expansion, and health-focused inventory optimization. 
+• Technical skills: -MS Power BI. 
 💹 Ms Excel
 
 [ANALYSIS OF CUSTOMER SERVICE DATA OF NILE](https://github.com/aneesh09/Analyses-of-Customer-Service-Data-using-Microsoft-Excel.git) 
 
-Objective: Optimize customer service processes by analyzing historical customer data.
-
-Tools Used: MS Excel, MS PowerPoint
+• The analysis aims to leverage data-driven approaches to optimize customer service processes, enhance customer experience, and drive 
+overall business growth. By examining historical customer service data, the project seeks to identify patterns, trends, and opportunities for 
+improvement, ultimately leading to enhanced customer loyalty and increased operational efficiency. 
+• Technical skills: -MS Excel, MS Power Point. 
 
 🗄️SQL
 
 [ANALYSIS OF FOOD & DRUG ADMINISTRATION](https://github.com/aneesh09/-SQL-Data-Analysis-and-Visualization-with-Power-BI-for-FDA.git) 
 
-Objective: Analyse FDA approval trends to gain insights into public health and safety.
+• Goal is to Analyze FDA approval trends, segment products by marketing status, dosage form, and therapeutic class to derive actionable 
+insights for public health and safety. 
+• Visualize FDA drug approval trends yearly, sponsor-based approval trends, and product segmentation based on Marketing Status to glean 
+insights into regulatory patterns 
+• Technical skills: -MySQL, MS Power B, MS Power Point 
 
-Tools Used: MySQL, MS Power BI, MS PowerPoint
+[ANALYSIS OF LOAN DATA](https://github.com/aneesh09/Loan-data) 
+• Conducted end-to-end SQL-based data analysis for a financial lending firm to reduce loan defaults, improve credit risk models,  
+and optimize loan approvals.  
+• Performed data querying, joins, aggregations, view creation, and advanced analytics to extract insights on loan performance,  
+customer behavior, and regional trends. 
+• Technical skills: -MySQL 
 
 💱 Python
 
 [BANK TELEMARKETING CAMPAIGN ANALYSIS](https://github.com/aneesh09/Case-Study-Bank-Telemarketing-Campaign.git) 
 
-Objective: Conduct EDA on telemarketing campaign data to improve response rates.
-
-Tools Used: Python (Jupyter Notebook), MS PowerPoint
+• The objective is to conduct an end-to-end Exploratory Data Analysis (EDA) on the campaign dataset, identifying patterns and providing 
+insights to improve the positive response rate. Descriptive Statistics, Univariate Analysis, Bivariate Analysis, Categorical Variables Analysis 
+with correlation of target and independent variable analysis was performed. 
+• Technical skills: -Jupiter Notebook (python), MS Power Point
  
 🤖Machine learning
 
 [TELECOM DATA CHURN MODELLING](https://github.com/aneesh09/Capstone-Project--Machine-Learning-Project---Churn-Modelling.git) 
 
-Objective: Build machine learning models to predict customer churn in the telecom industry.
+• Customer churn is a concerning problem for large companies (especially in the Telecom field) due to its direct effect on the revenues. 
+Companies often seek to know which customers are likely to churn in the recent future so that a timely action could be taken to prevent it. 
+• Build Machine Learning models like Random Forest, XG boost. that predict which customers are likely to churn. 
+• Technical skills: -Jupiter Notebook (python), MS Power Point 
 
-Tools Used: Python (Random Forest, XGBoost)
 
 📚 Education:-
 
